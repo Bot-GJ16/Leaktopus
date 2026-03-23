@@ -1,3 +1,14 @@
+# Deprecation Notice
+
+Dear Leaktopus Users,
+
+We want to inform you that the Leaktopus project will be officially deprecated. After careful evaluation, we have decided to discontinue active development and maintenance of this library.
+
+### What Does This Mean for You?
+  - **No New Features or Updates:** We will not be adding any new features or updates to Leaktopus.
+  - **Security Patches:** We will no longer provide security patches or fixes for any vulnerabilities.
+  - **Repository Status:** The repository will be archived, and the project will become read-only on GitHub, effective today.
+
 <div align="center">
 
 ![](logos/logo-128.png)
